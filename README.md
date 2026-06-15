@@ -66,5 +66,6 @@ The dashboard includes:
 
 ## Author
 
-**Prachee Shetye**
+Prachee Shetye
+
 MSc Statistics and Data Science Student
